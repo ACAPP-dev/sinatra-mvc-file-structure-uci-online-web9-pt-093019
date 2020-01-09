@@ -8,7 +8,7 @@ class Dog
     @@all << self
   end
 
-  self.all 
-    @@all 
+  self.all
+    @@all
   end
 end
